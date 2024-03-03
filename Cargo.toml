@@ -1,0 +1,10 @@
+[package]
+name = "email_extractor"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+curl = "0.4.46"
+regex = "1.10.3"
+structopt = "0.3.26"
